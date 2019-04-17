@@ -1,0 +1,3 @@
+rootProject.name = 'remindose_2341'
+
+include ':app'
